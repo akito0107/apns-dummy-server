@@ -1,0 +1,4 @@
+*.pem
+*.cnf
+*.srl
+node_modules/
